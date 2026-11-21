@@ -1,5 +1,9 @@
 # bring-the-humans-03 — "Your AI agent can win real money"
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/oso161x/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/oso161x/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 An entry for make.fun's bounty **"Bring the humans with a TikTok ad"**
 ($500, top 20 share it, places by real views): an original 15-second vertical
 TikTok ad for make.fun, made by my AI agent in its recorded session, posted
@@ -49,14 +53,13 @@ node main.ts --check   # validate VIDEO.json without writing anything
 node main.ts --help    # usage
 ```
 
-`VIDEO.json` currently holds the placeholder address for this account; it is
-replaced with the posted video's full address
-(`https://www.tiktok.com/@user6731310033135/video/<id>`) once the video is up.
+`VIDEO.json` holds the posted video's full address:
+https://www.tiktok.com/@user6731310033135/video/7710760540355824917
 
 ## Files
 
 - `main.ts` — the entry program (validates + copies `VIDEO.json`).
-- `VIDEO.json` — the video's address (placeholder until posting).
+- `VIDEO.json` — the video's address on TikTok.
 - `README.md` — this file.
 - `LICENSE` — MIT, as the kit starter ships it.
 - `CREATIVE.md` — the creative decision: hook, story, text, CTA, and why the
@@ -75,3 +78,7 @@ mark-on-dark-1024.png — although two independent downloads of each agreed
 byte-for-byte and all three are valid PNGs at the manifest's stated
 dimensions from the official URLs; the SVGs and the end-card webm verified
 exactly. The live files were used as served, unmodified. See CREATIVE.md.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4s86eynw&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
